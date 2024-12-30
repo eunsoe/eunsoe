@@ -28,5 +28,5 @@ I’m a 4th-year Mechanical Engineering student at The Cooper Union in NYC with 
 As a future Global Medical Innovator, I aspire to design medical technologies that enhance patient care and accessibility. With a commitment to excellence and inclusivity, I aim to combine my engineering expertise with bioengineering insights to make a meaningful impact on healthcare systems worldwide.  
 
 ## 📫 Let’s Connect!  
-- **LinkedIn**: [https://www.linkedin.com/in/eunsoe/] 
+- **LinkedIn**: https://www.linkedin.com/in/eunsoe/
 
